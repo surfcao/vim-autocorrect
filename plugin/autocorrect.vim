@@ -8191,6 +8191,7 @@ ia ORignally Originally
 ia orignially originally
 ia Orignially Originally
 ia ORignially Originally
+ia os so
 ia Os So
 ia osme some
 ia Osme Some
@@ -12436,4 +12437,22 @@ ia YEras Years
 ia yersa years
 ia Yersa Years
 ia YErsa Years
+ia govt government
+ia Govt Government
+ia GOvt Government
+ia attr attribute
+ia Attr Attribute
+ia ATtr Attribute
+ia substit substitute
+ia Substit Substitute
+ia SUbstit Substitute
+ia htgnty heterogeneity
+ia Htgnty Heterogeneity
+ia HTgnty Heterogeneity
+ia htgns heterogeneous
+ia Htgns Heterogeneous
+ia HTgns Heterogeneous
+ia autoco autocorrelation
+ia Autoco Autocorrelation
+ia AUtoco Autocorrelation
 endfunction
